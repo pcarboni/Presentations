@@ -1,4 +1,5 @@
-# DNS slides presented at geek/tech event "Meet Army v2.0". Event motto: "time out, no servers could be reached"
+# DNS slides presented at geek/tech event "Meet Army v2.0".
+# Event motto: "time out, no servers could be reached"
 
 (https://www.meetup.com/es/sysarmy/events/235119538/)
 
