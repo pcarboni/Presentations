@@ -25,5 +25,6 @@ Esta presentacion se llevo a cabo el jueves 30/agosto/2018, en sala C del centro
 
 Streaming on YouTube: <pendiente de publicacion>
 
-La presentacion en idioma español / castellano, está disponible <aca>
-Google Slides: <here> https://docs.google.com/presentation/d/e/2PACX-1vQrJu4K_IP99tmSoRcgXwc97wS0d-9VJJpayqZgiTxOYKlsPoSRq9i99q_tA9r47NrUrBS0ec6VWbM0/pub?start=false&loop=false&delayms=3000
+La presentacion en idioma español / castellano, está disponible [acá](https://github.com/pcarboni/Presentations/blob/master/DNS/nerdear_la_2018/Spanish/algunas_noticias_dns_2018.pdf).
+
+Google Slides: https://docs.google.com/presentation/d/e/2PACX-1vQrJu4K_IP99tmSoRcgXwc97wS0d-9VJJpayqZgiTxOYKlsPoSRq9i99q_tA9r47NrUrBS0ec6VWbM0/pub?start=false&loop=false&delayms=3000
