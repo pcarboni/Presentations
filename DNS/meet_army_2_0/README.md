@@ -1,5 +1,5 @@
-# DNS slides presented at geek/tech event "Meet Army v2.0".
-# Event motto: "time out, no servers could be reached"
+## DNS slides presented at geek/tech event "Meet Army v2.0".
+## Event motto: "time out, no servers could be reached"
 
 (https://www.meetup.com/es/sysarmy/events/235119538/)
 
@@ -22,7 +22,8 @@ Google Slides: <here>
 ---
 
 Esta presentacion se llevó a cabo el jueves 10/noviembre/2016, en las - anteriores - oficinas de Mulesoft (Avenida Corrientes 316, planta baja, Ciudad de Buenos Aires, Republica Argentina).
-( https://www.meetup.com/es/sysarmy/events/235119538/ )
+
+(https://www.meetup.com/es/sysarmy/events/235119538/)
 
 - Oradores:
 
@@ -33,5 +34,6 @@ Esta presentacion se llevó a cabo el jueves 10/noviembre/2016, en las - anterio
 
 Streaming on YouTube: https://youtu.be/uX69a8_kITI?t=37m48s (Canal oficial de MuleSoft Argentina - Muchas gracias!)
 
-La presentacion en idioma español / castellano, está disponible <aca>
+La presentacion en idioma español / castellano, está disponible [acá](https://github.com/pcarboni/Presentations/blob/master/DNS/meet_army_2_0/Spanish/DNS_esa_maldita_cosa_10_nov_2016.pdf).
+
 Google Slides: <here> https://docs.google.com/presentation/d/e/2PACX-1vRDpxUhw2O61LGkt81Bf855lFO0p2f2DYk_5rJyrhQh8-CZtX-gTqLdUDOeIx5ozCDKAgU_ClwRej10/pub?start=false&loop=false&delayms=3000
