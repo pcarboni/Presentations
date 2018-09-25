@@ -1,4 +1,4 @@
-# DNS slides presented at geek/tech international event "Nerdearla 2018" (https://nerdear.la).
+## DNS slides presented at geek/tech international event "Nerdearla 2018" (https://nerdear.la).
 
 ---
 # English
@@ -30,9 +30,9 @@ Some tweets from @nerdearla official account:
 - https://twitter.com/nerdearla/status/1035231647531188224
 
 ---
-# Diapositivas de DNS presentadas en el evento internacional nerd/tech "Nerdearla 2018" (https://nerdear.la).
+## Diapositivas de DNS presentadas en el evento internacional nerd/tech "Nerdearla 2018" (https://nerdear.la).
 ---
-# Spanish
+# Español
 ---
 
 Esta presentacion se llevo a cabo el jueves 30/agosto/2018, en sala C del centro cultural General San Martin (Sarmiento 1551, Ciudad de Buenos Aires, Republica Argentina)
