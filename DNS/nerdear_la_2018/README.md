@@ -1,6 +1,8 @@
 # DNS slides presented at geek/tech international event "Nerdearla 2018" (https://nerdear.la).
 
 ---
+# English
+---
 This presentation took place on Thursday 30th, August, 2018, Room "C", General San Martin cultural center (Sarmiento 1551 street, City of Buenos Aires, Republic of Argentina)
 
 - Speakers:
@@ -46,7 +48,8 @@ La presentacion PDF en idioma español / castellano, está disponible [acá](htt
 Google Slides: [acá](https://docs.google.com/presentation/d/e/2PACX-1vSagsQMBlg5EJSa4hG4r0cO2XW-8nCrWVeRnAKXebWjGUO1UfIAjSS9u3moko0wMT8fKuls5XkSe4rL/pub?start=false&loop=false&delayms=3000)
 
 ---
-
+# Spanish
+---
 Algunas fotos las podés ver [acá](https://github.com/pcarboni/Presentations/tree/master/DNS/nerdear_la_2018/pictures)
 
 ---
