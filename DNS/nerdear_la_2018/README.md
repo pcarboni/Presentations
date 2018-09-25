@@ -11,10 +11,11 @@ This presentation took place on Thursday 30th, August, 2018, Room "C", General S
 
 Streaming on YouTube: -publishing pending-
 
-English (rough) translation, available [here](https://github.com/pcarboni/Presentations/blob/master/DNS/nerdear_la_2018/English/DNS_News_2018.pdf)
+English (rough) PDF translation, available [here](https://github.com/pcarboni/Presentations/blob/master/DNS/nerdear_la_2018/English/DNS_News_2018.pdf)
 
 Google Slides: [here](https://docs.google.com/presentation/d/e/2PACX-1vSwf6pywmkrahdBFcNbTiveljjQL0fXN0fPrX8h1OZCUGuHGoSr1I8sW-BsT4VXhZ5j1QJcFvx78nM7/pub?start=false&loop=false&delayms=3000)
 
+You can view some pictures [here](https://github.com/pcarboni/Presentations/tree/master/DNS/nerdear_la_2018/pictures)
 ---
 Esta presentacion se llevo a cabo el jueves 30/agosto/2018, en sala C del centro cultural General San Martin (Sarmiento 1551, Ciudad de Buenos Aires, Republica Argentina)
 
@@ -26,6 +27,8 @@ Esta presentacion se llevo a cabo el jueves 30/agosto/2018, en sala C del centro
 
 Streaming en YouTube: -pendiente de publicacion-
 
-La presentacion en idioma español / castellano, está disponible [acá](https://github.com/pcarboni/Presentations/blob/master/DNS/nerdear_la_2018/Spanish/algunas_noticias_dns_2018.pdf).
+La presentacion PDF en idioma español / castellano, está disponible [acá](https://github.com/pcarboni/Presentations/blob/master/DNS/nerdear_la_2018/Spanish/algunas_noticias_dns_2018.pdf).
 
 Google Slides: [acá](https://docs.google.com/presentation/d/e/2PACX-1vSagsQMBlg5EJSa4hG4r0cO2XW-8nCrWVeRnAKXebWjGUO1UfIAjSS9u3moko0wMT8fKuls5XkSe4rL/pub?start=false&loop=false&delayms=3000)
+
+Algunas fotos las podés ver [acá](https://github.com/pcarboni/Presentations/tree/master/DNS/nerdear_la_2018/pictures)
