@@ -16,6 +16,7 @@ English (rough) PDF translation, available [here](https://github.com/pcarboni/Pr
 Google Slides: [here](https://docs.google.com/presentation/d/e/2PACX-1vSwf6pywmkrahdBFcNbTiveljjQL0fXN0fPrX8h1OZCUGuHGoSr1I8sW-BsT4VXhZ5j1QJcFvx78nM7/pub?start=false&loop=false&delayms=3000)
 
 You can view some pictures [here](https://github.com/pcarboni/Presentations/tree/master/DNS/nerdear_la_2018/pictures)
+
 ---
 Esta presentacion se llevo a cabo el jueves 30/agosto/2018, en sala C del centro cultural General San Martin (Sarmiento 1551, Ciudad de Buenos Aires, Republica Argentina)
 
