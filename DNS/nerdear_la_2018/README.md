@@ -30,6 +30,10 @@ Some tweets from @nerdearla official account:
 - https://twitter.com/nerdearla/status/1035231647531188224
 
 ---
+# Diapositivas de DNS presentadas en el evento internacional nerd/tech "Nerdearla 2018" (https://nerdear.la).
+---
+# Spanish
+---
 
 Esta presentacion se llevo a cabo el jueves 30/agosto/2018, en sala C del centro cultural General San Martin (Sarmiento 1551, Ciudad de Buenos Aires, Republica Argentina)
 
@@ -48,8 +52,7 @@ La presentacion PDF en idioma español / castellano, está disponible [acá](htt
 Google Slides: [acá](https://docs.google.com/presentation/d/e/2PACX-1vSagsQMBlg5EJSa4hG4r0cO2XW-8nCrWVeRnAKXebWjGUO1UfIAjSS9u3moko0wMT8fKuls5XkSe4rL/pub?start=false&loop=false&delayms=3000)
 
 ---
-# Spanish
----
+
 Algunas fotos las podés ver [acá](https://github.com/pcarboni/Presentations/tree/master/DNS/nerdear_la_2018/pictures)
 
 ---
