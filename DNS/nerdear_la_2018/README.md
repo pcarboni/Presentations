@@ -9,7 +9,7 @@ This presentation took place on Thursday 30th, August, 2018, Room "C", General S
 
 - Title: "DNS news, 2018"
 
-Streaming on YouTube: <publishing pending>
+Streaming on YouTube: -publishing pending-
 
 English (rough) translation, available [here](https://github.com/pcarboni/Presentations/blob/master/DNS/nerdear_la_2018/English/DNS_News_2018.pdf)
 
@@ -24,7 +24,7 @@ Esta presentacion se llevo a cabo el jueves 30/agosto/2018, en sala C del centro
 
 - Titulo: "Novedades de DNS en 2018"
 
-Streaming en YouTube: <pendiente de publicacion>
+Streaming en YouTube: -pendiente de publicacion-
 
 La presentacion en idioma español / castellano, está disponible [acá](https://github.com/pcarboni/Presentations/blob/master/DNS/nerdear_la_2018/Spanish/algunas_noticias_dns_2018.pdf).
 
