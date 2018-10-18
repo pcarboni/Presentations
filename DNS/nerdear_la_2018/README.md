@@ -10,7 +10,7 @@ This presentation took place on Thursday 30th, August, 2018, Room "C", General S
 
 - Title: "DNS news, 2018"
 
-Streaming on YouTube: -publishing pending-
+Streaming on YouTube (Closed caption/Translation on different languages available): [here](https://youtu.be/oOANZMC9BhE)
 
 ---
 
@@ -22,11 +22,12 @@ Google Slides: [here](https://docs.google.com/presentation/d/e/2PACX-1vSwf6pywmk
 
 You can view some pictures [here](https://github.com/pcarboni/Presentations/tree/master/DNS/nerdear_la_2018/pictures)
 
-Some tweets from @nerdearla official account:
+Some tweets from @nerdearla and @sysarmy official accounts:
 
 - https://twitter.com/nerdearla/status/1035230105017241600
 - https://twitter.com/nerdearla/status/1035227831788294145
 - https://twitter.com/nerdearla/status/1035231647531188224
+- https://twitter.com/sysarmy/status/1052922313883181057
 
 ---
 # Español
@@ -34,7 +35,7 @@ Some tweets from @nerdearla official account:
 ## Diapositivas de DNS presentadas en el evento internacional nerd/tech "Nerdearla 2018" (https://nerdear.la).
 ---
 
-Esta presentacion se llevo a cabo el jueves 30/agosto/2018, en sala C del centro cultural General San Martin (Sarmiento 1551, Ciudad de Buenos Aires, Republica Argentina)
+Esta presentación se llevo a cabo el jueves 30/agosto/2018, en sala C del centro cultural General San Martin (Sarmiento 1551, Ciudad de Buenos Aires, República Argentina)
 
 - Oradores:
  
@@ -42,7 +43,7 @@ Esta presentacion se llevo a cabo el jueves 30/agosto/2018, en sala C del centro
 
 - Titulo: "Novedades de DNS en 2018"
 
-Streaming en YouTube: -pendiente de publicacion-
+Streaming en YouTube (Subtitulado Closed caption/traducción disponible en diferentes lenguajes): [acá](https://youtu.be/oOANZMC9BhE)
 
 ---
 
@@ -55,8 +56,9 @@ Google Slides: [acá](https://docs.google.com/presentation/d/e/2PACX-1vSagsQMBlg
 Algunas fotos las podés ver [acá](https://github.com/pcarboni/Presentations/tree/master/DNS/nerdear_la_2018/pictures)
 
 ---
-Algunos tweets de la cuenta oficial @nerdearla:
+Algunos tweets de las cuentas oficiales de @nerdearla y @sysarmy:
 
 - https://twitter.com/nerdearla/status/1035230105017241600
 - https://twitter.com/nerdearla/status/1035227831788294145
 - https://twitter.com/nerdearla/status/1035231647531188224
+- https://twitter.com/sysarmy/status/1052922313883181057
