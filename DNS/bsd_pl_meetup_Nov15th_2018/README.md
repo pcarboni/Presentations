@@ -16,8 +16,7 @@ Streaming on YouTube (English): [here](https://youtu.be/xqM7Tx_EoSM?t=5985)
 
 English PDF file, available [here](https://github.com/pcarboni/Presentations/blob/master/DNS/bsd_pl_meetup_Nov15th_2018/English/Unbound_and_FreeBSD.pdf)
 
-Google Slides - Player: [here](https://docs.google.com/presentation/d/e/2PACX-1vRNe0ZbQucx7N4Wfkq6o8XOh8FTxSilBe3j3Xodf8EqbeE5RDOi6ZTwYPN2oeXHWcGYHbj8tTz3ggAy/pub?start=false&loop=false&delayms=3000)
-Google Slides - File access: [here](https://docs.google.com/presentation/d/11ykEeoHluKqNWzqLd_NVueqCU28u0Jl8r_EnSuJQrv8/edit?usp=sharing)
+Google Slides - Player: [here](https://docs.google.com/presentation/d/e/2PACX-1vRNe0ZbQucx7N4Wfkq6o8XOh8FTxSilBe3j3Xodf8EqbeE5RDOi6ZTwYPN2oeXHWcGYHbj8tTz3ggAy/pub?start=false&loop=false&delayms=3000) - File access: [here](https://docs.google.com/presentation/d/11ykEeoHluKqNWzqLd_NVueqCU28u0Jl8r_EnSuJQrv8/edit?usp=sharing)
 
 ---
 
