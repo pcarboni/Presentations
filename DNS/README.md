@@ -6,7 +6,7 @@
 
   - November 10th - Event: **MeetArmy 2.0** (*Buenos Aires, Argentina*)
 
-> Title: "[DNS, that thing that always works, ... until it doesn't.](https://github.com/pcarboni/Presentations/blob/master/DNS/meet_army_2_0/README.md)"
+  > Title: "[DNS, that thing that always works, ... until it doesn't.](https://github.com/pcarboni/Presentations/blob/master/DNS/meet_army_2_0/README.md)"
 
 ---
 * 2018
