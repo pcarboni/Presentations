@@ -11,7 +11,7 @@ This presentation took place on Sunday 22th, September, 2019, at Scandic Lilleha
 
 - Title: "Unbound & FreeBSD: A true love story"
 
-Video recording not available (yet)
+#### Note: Video recording not available (yet)
 
 ---
 
