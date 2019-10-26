@@ -25,6 +25,17 @@ Google Slides - Player: [here](https://docs.google.com/presentation/d/e/2PACX-1v
 
 You can view some pictures [here](https://github.com/pcarboni/Presentations/tree/master/DNS/eurobsdcon_2019/pictures)
 
+## Note: A short movie is included!
+
+---
+
+Random stuff including the presentation:
+
+- https://atnd.org/events/108242 (In Japanese, recap from the conference, BSD Consulting, by Daichi Goto)
+  (Friendly translation to English)[https://translate.google.com/translate?sl=auto&tl=es&u=https%3A%2F%2Fatnd.org%2Fevents%2F108242]
+- https://blog.netbsd.org/tnf/entry/eurobsd_2019 (NetBSD blog)
+- https://jpmens.net/2019/09/24/eurobsdcon-2019/ (Jan-Piet Mens)
+
 Some tweets from several accounts:
 
 - https://twitter.com/PaultheWEiRD/status/1175752642745819136 (Paul de Weerd)
