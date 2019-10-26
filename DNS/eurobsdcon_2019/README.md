@@ -32,7 +32,9 @@ You can view some pictures [here](https://github.com/pcarboni/Presentations/tree
 Random stuff including the presentation:
 
 - https://atnd.org/events/108242 (In Japanese, recap from the conference, BSD Consulting, by Daichi Goto)
+
   [Friendly translation to English](https://translate.google.com/translate?sl=auto&tl=es&u=https%3A%2F%2Fatnd.org%2Fevents%2F108242)
+
 - https://blog.netbsd.org/tnf/entry/eurobsd_2019 (NetBSD blog)
 - https://jpmens.net/2019/09/24/eurobsdcon-2019/ (Jan-Piet Mens)
 
