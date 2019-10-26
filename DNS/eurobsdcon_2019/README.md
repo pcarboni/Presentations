@@ -15,7 +15,7 @@ This presentation took place on Sunday 22th, September, 2019, at Scandic Lilleha
 
 ---
 
-English PDF file, available [here](https://github.com/pcarboni/Presentations/blob/master/DNS/eurobsdcon_2019/English/Unbound%20&%20FreeBSD:%20A%20true%20love%20story%20-%20Pablo%20Carboni.pdf)
+English PDF file, available [here](https://github.com/pcarboni/Presentations/blob/master/DNS/eurobsdcon_2019/English/Unbound%20%26%20FreeBSD:%20A%20true%20love%20story%20-%20Pablo%20Carboni.pdf)
 
 or here (EuroBSDCon'2019 original site):
 
