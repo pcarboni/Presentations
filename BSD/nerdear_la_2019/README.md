@@ -1,6 +1,6 @@
 # English
 ---
-## BSD slides presented at geek/tech international event "Nerdearla 2019" (https://nerdear.la).
+## BSD slides presented at geek/tech international conference "Nerdearla 2019" (https://nerdear.la).
 ---
 This lightning talk took place on Thursday 17th, October, 2019, "Sala Auditorio", Ciudad Cultural Konex (Sarmiento 3131 street, City of Buenos Aires, Republic of Argentina)
 
@@ -20,7 +20,7 @@ English PDF translation not available (yet)
 ---
 # Español
 ---
-## Diapositivas de BSD presentadas en el evento internacional nerd/tech "Nerdearla 2019" (https://nerdear.la).
+## Diapositivas de BSD presentadas en el conferencia internacional nerd/tech "Nerdearla 2019" (https://nerdear.la).
 ---
 
 Esta lightning talk se llevo a cabo el jueves 17/octubre/2019, en sala Auditorio, Ciudad Cultural Konex (Sarmiento 3131, Ciudad de Buenos Aires, Republica Argentina)
