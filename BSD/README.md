@@ -4,6 +4,10 @@
 ---
 * 2019
 
+  - October 17th - Event: **Nerdearla'2019** - https://nerdear.la - (*Ciudad de Buenos Aires, Argentina*)
+
+  > Title: "[Que es BSD?](https://github.com/pcarboni/Presentations/blob/master/BSD/nerdear_la_2019//README.md)"
+
   - September 22nd - Event: **EuroBSDCon'2019** - https://2019.eurobsdcon.org - (*Lillehammer, Norway*)
 
   > Title: "[Unbound & FreeBSD: A true love story](https://github.com/pcarboni/Presentations/blob/master/DNS/eurobsdcon_2019/README.md)"
