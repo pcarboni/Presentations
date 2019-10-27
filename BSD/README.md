@@ -8,6 +8,12 @@
 
   > Title: "[Que es BSD?](https://github.com/pcarboni/Presentations/blob/master/BSD/nerdear_la_2019//README.md)"
 
+  - September 17th - Conference: **Ekoparty 15** - https://ekoparty.org - (*Ciudad de Buenos Aires, Argentina*)
+
+  > Title: "[OpenBSD - a safe workstation](https://github.com/pcarboni/Presentations/blob/master/BSD/ekoparty_15//README.md)"
+
+    (Presenting "What's BSD" and introducing BSDar users community)
+
   - September 22nd - Conference: **EuroBSDCon'2019** - https://2019.eurobsdcon.org - (*Lillehammer, Norway*)
 
   > Title: "[Unbound & FreeBSD: A true love story](https://github.com/pcarboni/Presentations/blob/master/DNS/eurobsdcon_2019/README.md)"
