@@ -6,11 +6,11 @@
 
   - October 17th - Conference: **Nerdearla'2019** - https://nerdear.la - (*Ciudad de Buenos Aires, Argentina*)
 
-  > Title: "[Que es BSD?](https://github.com/pcarboni/Presentations/blob/master/BSD/nerdear_la_2019//README.md)"
+  > Title: "[Que es BSD?](https://github.com/pcarboni/Presentations/blob/master/BSD/nerdear_la_2019/README.md)"
 
   - September 27th - Conference: **Ekoparty 15** - https://ekoparty.org - (*Ciudad de Buenos Aires, Argentina*)
 
-  > Title: "[OpenBSD - a safe workstation](https://github.com/pcarboni/Presentations/blob/master/BSD/ekoparty_15//README.md)"
+  > Title: "[OpenBSD - a safe workstation](https://github.com/pcarboni/Presentations/blob/master/BSD/ekoparty_15/README.md)"
 
     (Presenting "What's BSD" and introducing BSDar users community)
 
