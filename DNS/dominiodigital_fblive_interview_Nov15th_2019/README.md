@@ -1,30 +1,30 @@
 # English
 ---
-## DNS slides presented at Facebook Live session, and then interview, both of them for TV geek show, Dominio Digital (https://www.domionodigital.com.ar) - now streamed over Internet.
+## Slides presented at FB Live session, and got interviewed after it, both of them for TV geek show, Dominio Digital (https://www.dominiodigital.com.ar)
 ---
 
-Divided between two parts (Took place Friday 15th, November, 2019)
+Divided between two parts (Both events took place on Friday 15th, November, 2019)
 
-- Facebook Live session, 2pm - 3pm, at LatinCloud facilities ((Darwin 1154, Buenos Aires, Argentina)
+- Facebook Live session, 2pm - 3pm, at LatinCloud facilities (Darwin 1154, Buenos Aires, Argentina)
 
  Speakers:
 
   * Pablo Carboni (Twitter: @pcarboni / Mastodon: @pcarboni@bsd.network)
 
-- Title: Privacy and security in DNS times (Spanish: "Privacidad y seguridad en tiempos de DNS")
+Title: Privacy and security in DNS times (Spanish: "Privacidad y seguridad en tiempos de DNS")
 
-English PDF translation not available (Spanish version available, find it below)
+ English PDF translation not available (Spanish version available, find it [here](https://github.com/pcarboni/Presentations/blob/master/DNS/facebooklive_latincloud_Nov15th_2019/Spanish/Privacidad_y_seguridad_en_tiempos_de_DNS.pdf)).
 
 ---
 - Radio program with video 'live', 5pm-6pm, Dominio Digital (Broadcasted from "Trendtopic" radio, Buenos Aires, Argentina)
 
 Streaming on YouTube (Spanish,Closed caption/Translation on different languages available): [here](https://youtu.be/g9K-X4DGNnM?t=1490)
 
-The whole radio program - with "magical" question asked to me at the very beggining: [here](https://youtu.be/g9K-X4DGNnM)
+The whole radio program - with "magical" question asked to me at the very beggining: [here](https://youtu.be/g9K-X4DGNnM?t=1)
 
 ---
 
-Some pictures available here [here](https://github.com/pcarboni/Presentations/tree/master/DNS/facebooklive_latincloud_Nov15th_2019/pictures)
+Some pictures available here [here](https://github.com/pcarboni/Presentations/tree/master/DNS/dominiodigital_fblive_interview_Nov15th_2019/pictures)
 
 ---
 # Español
@@ -42,18 +42,18 @@ Se divide en dos partes (Llevandose a cabo el viernes 15/noviembre/2019)
 
 - Titulo: "Privacidad y seguridad en tiempos de DNS"
 
-La presentacion PDF en idioma español / castellano, está disponible [acá](https://github.com/pcarboni/Presentations/blob/master/DNS/facebooklive_latincloud_Nov15th_2019/Spanish/Privacidad_y_seguridad_en_tiempos_de_DNS.pdf).
+La presentacion PDF en idioma español / castellano, está disponible [acá](https://github.com/pcarboni/Presentations/blob/master/DNS/dominiodigital_fblive_interview_Nov15th_2019/Spanish/Privacidad_y_seguridad_en_tiempos_de_DNS.pdf).
 
 ---
 - Programa de radio con video en vivo, 17hs a 18hs, Dominio Digital (Desde radio "Trendtopic", Buenos Aires, Argentina)
 
 Streaming de mi participacion en Dominio Digital: [acá](https://youtu.be/g9K-X4DGNnM?t=1490)
 
-El programa completo - con pregunta magica que me hicieron al inicio: [acá](https://youtu.be/g9K-X4DGNnM)
+El programa completo - con pregunta magica que me hicieron al inicio: [acá](https://youtu.be/g9K-X4DGNnM?t=1)
 
 ---
 
-Algunas fotos las podés ver [acá](https://github.com/pcarboni/Presentations/tree/master/DNS/facebooklive_latincloud_Nov15th_2019/pictures)
+Algunas fotos las podés ver [acá](https://github.com/pcarboni/Presentations/tree/master/DNS/dominiodigital_fblive_interview_Nov15th_2019/pictures)
 
 ---
 

@@ -4,11 +4,11 @@
 ---
 * 2019
 
-  - November 15th - Event: **Dominio Digital Radio/TV Show via streaming** - (*Ciudad de Buenos Aires, Argentina*)
+  - November 15th - Event 2/2: **Dominio Digital Radio/TV Show via streaming** - (*Ciudad de Buenos Aires, Argentina*)
 
   > Title: "[Interview at Dominio Digital TV Show](https://github.com/pcarboni/Presentations/blob/master/DNS/dominiodigital_fblive_interview_Nov15th_2019/README.md)"
 
-  - November 15th - Event: **Facebook Live at LatinCloud offices** - (*Ciudad de Buenos Aires, Argentina*)
+  - November 15th - Event 1/2: **Facebook Live Dominio Digital at LatinCloud offices** - (*Ciudad de Buenos Aires, Argentina*)
 
   > Title: "[Privacy and security in DNS times](https://github.com/pcarboni/Presentations/blob/master/DNS/dominiodigital_fblive_interview_Nov15th_2019/README.md)"
 
