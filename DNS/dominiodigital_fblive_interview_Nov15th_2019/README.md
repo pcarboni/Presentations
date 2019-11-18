@@ -40,7 +40,7 @@ Se divide en dos partes (Llevandose a cabo el viernes 15/noviembre/2019)
  
   * Pablo Carboni (Twitter: @pcarboni / Mastodon: @pcarboni@bsd.network)
 
-- Titulo: "Privacidad y seguridad en tiempos de DNS"
+Titulo: "Privacidad y seguridad en tiempos de DNS"
 
 La presentacion PDF en idioma español / castellano, está disponible [acá](https://github.com/pcarboni/Presentations/blob/master/DNS/dominiodigital_fblive_interview_Nov15th_2019/Spanish/Privacidad_y_seguridad_en_tiempos_de_DNS.pdf).
 
