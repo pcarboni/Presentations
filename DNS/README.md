@@ -6,11 +6,11 @@
 
   - November 15th - Event: **Dominio Digital Radio/TV Show via streaming** - (*Ciudad de Buenos Aires, Argentina*)
 
-  > Title: "[Interview at Dominio Digital TV Show](https://github.com/pcarboni/Presentations/blob/master/DNS/facebooklive_interview_Nov15th_2019/README.md)"
+  > Title: "[Interview at Dominio Digital TV Show](https://github.com/pcarboni/Presentations/blob/master/DNS/dominiodigital_fblive_interview_Nov15th_2019/README.md)"
 
   - November 15th - Event: **Facebook Live at LatinCloud offices** - (*Ciudad de Buenos Aires, Argentina*)
 
-  > Title: "[Privacy and security in DNS times](https://github.com/pcarboni/Presentations/blob/master/DNS/facebooklive_latincloud_Nov15th_2019/README.md)"
+  > Title: "[Privacy and security in DNS times](https://github.com/pcarboni/Presentations/blob/master/DNS/dominiodigital_fblive_interview_Nov15th_2019/README.md)"
 
   - September 22nd - Event: **EuroBSDCon'2019** - https://2019.eurobsdcon.org - (*Lillehammer, Norway*)
 
