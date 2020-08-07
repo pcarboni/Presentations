@@ -6,7 +6,7 @@
 
   - December 6th - Conference: **PyConAR'2019** - https://eventos.python.org.ar/events/pyconar2019 - (*Ciudad de Buenos Aires, Argentina*)
 
-  > Title: "[Que es BSD?](https://github.com/pcarboni/Presentations/blob/master/BSD/nerdear_la_2019/README.md)"
+  > Title: "[Que es BSD?](https://github.com/pcarboni/Presentations/blob/master/BSD/pyconar_2019/README.md)"
 
   - October 17th - Conference: **Nerdearla'2019** - https://nerdear.la - (*Ciudad de Buenos Aires, Argentina*)
 
@@ -14,7 +14,7 @@
 
   - September 27th - Conference: **Ekoparty 15** - https://ekoparty.org - (*Ciudad de Buenos Aires, Argentina*)
 
-  > Title: "[OpenBSD - a safe workstation](https://github.com/pcarboni/Presentations/blob/master/BSD/ekoparty_15/README.md)"
+  > Title: "[Que es BSD? - introductory talk to OpenBSD - a safe workstation talk/workshop](https://github.com/pcarboni/Presentations/blob/master/BSD/ekoparty_15/README.md)"
 
     (Presenting "What's BSD" and introducing BSDar users community)
 
