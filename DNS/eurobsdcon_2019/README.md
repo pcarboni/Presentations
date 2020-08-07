@@ -3,7 +3,7 @@
 ## DNS slides presented at EuroBSDCon'2019 BSD conference (https://2019.eurobsdcon.org)
 ## https://2019.eurobsdcon.org/talk-speakers/#unbound)
 ---
-This presentation took place on Sunday 22th, September, 2019, at Scandic Lillehammer Hotel (Turisthotellvegen 6, Lillehammer, Norway)
+This presentation took place on Sunday 22nd, September, 2019, at Scandic Lillehammer Hotel (Turisthotellvegen 6, Lillehammer, Norway)
 
 - Speakers:
 
